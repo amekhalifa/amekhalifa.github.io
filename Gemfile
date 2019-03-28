@@ -1,3 +1,4 @@
+
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -23,5 +24,5 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'tzinfo-data'
+  gem 'hawkins'
 end
