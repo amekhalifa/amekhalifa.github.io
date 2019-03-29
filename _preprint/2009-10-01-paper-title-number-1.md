@@ -1,8 +1,8 @@
 ---
-authors: "Rémi Gribonval, Gilles Blanchard, Nicolas Keriven, Yann Traonmilin"
-title: "Paper Title Number 1"
+authors: "Ahmed Khalifa,"
+title: "Paper Title"
 collection: preprint
-date: 2009-10-01
+date: 2019-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: ''
 ---

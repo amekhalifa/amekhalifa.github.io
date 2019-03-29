@@ -11,7 +11,7 @@ author_profile: true
 
 ## Thesis
 
-> **M.Sc.**: *Novel New Quadrotor Manipulation System* [[PDF]](https://arxig/){:target="_blank"}
+> **M.Sc.**: *Novel Quadrotor Manipulation System* [[PDF]](https://arxig/){:target="_blank"}
 
 > **Ph.D.**: *Controller Design and Implementation of a New Quadrotor Manipulation System* [[PDF]](https://arxig/){:target="_blank"}
 
