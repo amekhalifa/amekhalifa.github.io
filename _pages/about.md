@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Ahmed Khalifa"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+ > Researcher-Lecturer of Automation and Robotics
 
 I am currently a postdoctoral researcher at [Ecole Centrale de Nantes](https://www.ec-nantes.fr/). I am working within the project [Valet](http://www.agence-nationale-recherche.fr/Project-ANR-15-CE22-0013). My research topic is modeling and control of car-like vehicles platoon navigating in an urban environment.
 
