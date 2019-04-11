@@ -34,3 +34,13 @@ author_profile: true
 {% for post in site.conference reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-138085563-1');
+</script>

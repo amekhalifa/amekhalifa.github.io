@@ -21,3 +21,15 @@ Short Bio
 ======
 
 I graduated from the Department of Industrial Electronics and Control Engineering, [Faculty of Electronic Engineering](http://mu.menofia.edu.eg/fee/Home/en), [Menoufia University](http://mu.menofia.edu.eg/Home/en) in 2009. I have received the M.Sc. and Ph.D. degrees in the field of Mechatronics and Robotics Engineering from [Egypt-Japan University of Science and Technology](https://ejust.edu.eg/) in 2013 and 2016 respectively. While pursuing my Ph.D. thesis, in 2015, I joined [Namerikawa Laboratory](http://www.namerikawa.sd.keio.ac.jp/) at [Keio University](https://www.keio.ac.jp/) as a Ph.D. student. After that, I was recruited as a lecturer in the field of automation and robotics at the Faculty of Electronic Engineering. Meanwhile, I joined the [French University in Egypt](http://www.ufe.edu.eg/) and [Zewail City for Science and Technology](https://www.zewailcity.edu.eg/main/index.php?lang=en) as an adjunct lecturer.
+
+<meta name="google-site-verification" content="lK6o-JNSTY42dtD1ctzoRd1irmxh9Tjd35PPjSeDa6M" />
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-138085563-1');
+</script>
