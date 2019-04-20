@@ -11,8 +11,8 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ahmed Khalifa"
 description              : &description "Post-doctoral Researcher"
-url                     : http://localhost:4000
-#url                     : https://amekhalifa.github.io
+#url                     : http://localhost:4000
+url                     : https://amekhalifa.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amekhalifa/amekhalifa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
