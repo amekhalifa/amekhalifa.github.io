@@ -13,7 +13,7 @@ author_profile: true
 
 > **M.Sc.**: *Novel Quadrotor Manipulation System* [[PDF]](https://arxiv.org/abs/1904.05090){:target="_blank"}
 
-> **Ph.D.**: *Controller Design and Implementation of a New Quadrotor Manipulation System* [[PDF]](https://arxiv.org/pdf/1904.08498){:target="_blank"}
+> **Ph.D.**: *Controller Design and Implementation of a New Quadrotor Manipulation System* [[PDF]](https://arxiv.org/abs/1904.08498){:target="_blank"}
 
 {% include base_path %}
 
