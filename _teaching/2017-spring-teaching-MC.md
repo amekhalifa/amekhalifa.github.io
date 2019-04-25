@@ -2,7 +2,6 @@
 title: "Microcontrollers - Part II"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2017-spring-teaching-MC
 venue: "Menouﬁa University, Faculty of Electronic Engineering, Department of Industrial Electronics and Control Engineering"
 semester: Spring
 date: 2017-04-01
