@@ -9,5 +9,5 @@ date: 2017-04-01
 location: "Monofiya, Egypt"
 ---
 
-The description and introduction of this course is presented in this [PDF]().
+The description and introduction of this course are presented in this [PDF]().
 
