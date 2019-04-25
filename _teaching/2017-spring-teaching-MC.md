@@ -10,11 +10,3 @@ location: "Monofiya, Egypt"
 
 The description of this course is presented in this [PDF]().
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
