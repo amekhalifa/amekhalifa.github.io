@@ -6,5 +6,5 @@ collection: journal
 date: 2017-01-01
 venue: 'International Journal of Control, Automation and Systems, 15(3), 1434
 - 1446'
-paperurl: ''
+paperurl: 'http://amekhalifa.github.io/files/journal/2017_NQMS_PTPC_IJCAS.pdf'
 ---
