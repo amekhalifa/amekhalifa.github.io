@@ -36,9 +36,9 @@
 		</h2>
 	{% else %}
 		{% if post.authors %}
-			{{ post.authors }}. <strong>{{title }}.</strong> 
+			{{ post.authors }}. <strong>{{ title }}.</strong> 
 		{% else %}
-			<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+			<strong>{{ title }}.</strong> 
 		{% endif %}
 	{% endif %}
 	
