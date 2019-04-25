@@ -1,5 +1,5 @@
 ---
-title: "Control Systems I,"
+title: "Control Systems I"
 collection: teaching
 type: "Undergraduate course"
 venue: " Zewail City for Science and Technology, University of Science and Technology, Department of Aerospace and Communications Engineering"
@@ -8,4 +8,4 @@ date: 2017-02-01
 location: "Cairo, Egypt"
 ---
 
-The description of this course is presented in this [PDF]().
+The description and introduction of this course are presented in this [PDF](http://amekhalifa.github.io/files/teaching/microcontroller/Lecture_0_Introduction to Part II.pdf).
