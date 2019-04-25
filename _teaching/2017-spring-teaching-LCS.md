@@ -8,4 +8,4 @@ date: 2017-02-01
 location: "Cairo, Egypt"
 ---
 
-The description and introduction of this course are presented in this [PDF](http://amekhalifa.github.io/files/teaching/microcontroller/Lecture_0_Introduction to Part II.pdf).
+The description and introduction of this course are presented in this [PDF](http://amekhalifa.github.io/files/teaching/control_system/Lecture_0_Course_Presenation.pdf).
