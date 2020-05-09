@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is detailed in this [PDF](https://www.dropbox.com/s/8lotk0oqsgvw1jh/201803_AK_CV.pdf?dl=0).
+My CV is detailed in this [PDF](https://www.dropbox.com/s/oedo25jloc67kid/201803_AK_CV.pdf?dl=0).
 
