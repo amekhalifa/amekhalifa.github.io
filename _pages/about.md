@@ -19,8 +19,10 @@ I graduated from the Department of Industrial Electronics and Control Engineerin
 Research Interest
 ======
 
-My research interests span the areas of robotics, mechatronics and control theory. My interests are based on an interdisciplinary approach including robotic design, modeling, innovative mechatronics, and control strategies. I have a specific interest in robotic systems including flying/ground robots, aerial/ground manipulators, and homogeneous/heterogeneous
-multi-robot systems. My interests in control strategies include robust, predictive, cooperative, and distributed.
+My research interests, based on an interdisciplinary approach, span the areas of Mechatronics, Robotics, Control Theory and Artificial Intelligence (AI). I have a specific interest in the design, analysis and motion control of robotic systems including:
+* Robust, adaptive, optimal, predictive, cooperative and distributed control;
+* Flying/Ground Robots, Aerial/Ground Manipulators, and Multi-robot systems;
+* AI-based motion control algorithms.
 
 
 
