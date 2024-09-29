@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ahmed Khalifa"
-description              : &description "Lecturer-Researcher in Robotics and Control Engineering"
+description              : &description 
 #url                     : http://localhost:4000
 url                     : https://amekhalifa.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Ahmed Khalifa"
   avatar           : "profile.png"
-  bio              : "Research Scientist | Lecturer in Robotics and Control Engineering"
+  bio              : "Research Scientist | Lecturer in Control & Robotics Engineering"
   location         : "Rennes, France"
   employer         : 
   pubmed           : 
