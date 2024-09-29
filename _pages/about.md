@@ -9,7 +9,9 @@ redirect_from:
 ---
 <!--- Researcher-Lecturer of Automation and Robotics -->
 
-I am currently a Lead R&D Control Engineer at [Cailabs](https://www.cailabs.com/).
+
+I currently serve as a Principal Investigator and Control Systems Engineer at [Cailabs](https://www.cailabs.com/), where I lead the development and implementation of advanced control systems for optical applications, with a strong emphasis on enhancing performance and reliability. My responsibilities include driving research initiatives in control theory, optimization, and machine learning, and designing innovative solutions tailored to the unique challenges of optical technologies.
+
 
 # Short Bio
 
