@@ -13,7 +13,7 @@ redirect_from:
 I currently serve as a Principal Investigator and Control Systems Engineer at [Cailabs](https://www.cailabs.com/), where I lead the development and implementation of advanced control systems for optical applications, with a strong emphasis on enhancing performance and reliability. My responsibilities include driving research initiatives in control theory, optimization, and machine learning, and designing innovative solutions tailored to the unique challenges of optical technologies.
 
 
-# Short Bio
+### Short Bio
 
 I hold a BSc in Industrial Electronics and Control Engineering from the [Faculty of Electronic Engineering](http://mu.menofia.edu.eg/fee/Home/en), [Menoufia University](http://mu.menofia.edu.eg/Home/en). I then obtained my MSc and PhD degrees in Mechatronics and Robotics Engineering from the [Egypt-Japan University of Science and Technology](https://ejust.edu.eg/) and [Keio University](https://www.keio.ac.jp/), specializing in aerial manipulators.
 
@@ -24,7 +24,7 @@ Later, I took on a postdoctoral researcher role at [Ecole Centrale de Nantes](ht
 I also served as a Researcher and Lecturer in Robotics and Control Engineering at [Cardiff Metropolitan University](https://www.cardiffmet.ac.uk/Pages/default.aspx), where I furthered my research in control systems for Subterranean Robotics for infrastructure inspection. Currently, I work as a lead R&D Control Engineer, addressing complex control challenges in optical telecommunication systems.
 
 
-# Research Interests
+### Research Interests
 
 I have a diverse range of research interests that adopt an interdisciplinary approach, integrating Control Theory, Optimization, Mechatronics, Robotics, and Machine Learning (AI). My specific areas of focus include:
 
